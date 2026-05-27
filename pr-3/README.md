@@ -101,7 +101,7 @@ This project helps students understand:
 ├── 📄 student_data.py      ← Main Python Program
 ├── 📄 README.md            ← Project Documentation
 │
-└── 📂 screenshots/
+└── 📂pr-3/
     ├── output1.png
     ├── output2.png
     ├── output3.png
@@ -196,7 +196,7 @@ student_data={
 > Add your first uploaded screenshot here.
 
 ```md
-![Output 1](screenshots/output1.png)
+![Output 1](pr-3/output1.png)
 ```
 
 ---
@@ -206,7 +206,7 @@ student_data={
 > Add your second uploaded screenshot here.
 
 ```md
-![Output 2](screenshots/output2.png)
+![Output 2](pr-3/output2.png)
 ```
 
 ---
@@ -216,7 +216,7 @@ student_data={
 > Add your third uploaded screenshot here.
 
 ```md
-![Output 3](screenshots/output3.png)
+![Output 3](pr-3/output3.png)
 ```
 
 ---
@@ -226,7 +226,7 @@ student_data={
 > Add your fourth uploaded screenshot here.
 
 ```md
-![Output 4](screenshots/output4.png)
+![Output 4](pr-3/output4.png)
 ```
 
 ---
@@ -236,7 +236,7 @@ student_data={
 > Add your fifth uploaded screenshot here.
 
 ```md
-![Output 5](screenshots/output5.png)
+![Output 5](pr-3/output5.png)
 ```
 
 ---
@@ -246,7 +246,7 @@ student_data={
 > Add your sixth uploaded screenshot here.
 
 ```md
-![Output 6](screenshots/output6.png)
+![Output 6](pr-3/output6.png)
 ```
 
 ---
@@ -256,7 +256,7 @@ student_data={
 > Add your seventh uploaded screenshot here.
 
 ```md
-![Output 7](screenshots/output7.png)
+![Output 7](pr-3/output7.png)
 ```
 
 ---
