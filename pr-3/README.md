@@ -196,7 +196,7 @@ student_data={
 > Add your first uploaded screenshot here.
 
 ```md
-![Output 1](output1.png)
+![Output 1](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ```
 
 ---
