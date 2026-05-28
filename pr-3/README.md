@@ -396,6 +396,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 28 May, 2026*
+*Made with ❤️ and 🐍 — Last updated: 28 May, 2026*
 
 </div>
