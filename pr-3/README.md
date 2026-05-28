@@ -206,7 +206,7 @@ student_data={
 > Add your second uploaded screenshot here.
 
 ```md
-![Output 2](pr-3/output2.png)
+![Output 2](output2.png)
 ```
 
 ---
@@ -216,7 +216,7 @@ student_data={
 > Add your third uploaded screenshot here.
 
 ```md
-![Output 3](pr-3/output3.png)
+![Output 3](output3.png)
 ```
 
 ---
@@ -226,7 +226,7 @@ student_data={
 > Add your fourth uploaded screenshot here.
 
 ```md
-![Output 4](pr-3/output4.png)
+![Output 4](output4.png)
 ```
 
 ---
@@ -236,7 +236,7 @@ student_data={
 > Add your fifth uploaded screenshot here.
 
 ```md
-![Output 5](pr-3/output5.png)
+![Output 5](output5.png)
 ```
 
 ---
@@ -246,7 +246,7 @@ student_data={
 > Add your sixth uploaded screenshot here.
 
 ```md
-![Output 6](pr-3/output6.png)
+![Output 6](output6.png)
 ```
 
 ---
@@ -256,7 +256,7 @@ student_data={
 > Add your seventh uploaded screenshot here.
 
 ```md
-![Output 7](pr-3/output7.png)
+![Output 7](output7.png)
 ```
 
 ---
