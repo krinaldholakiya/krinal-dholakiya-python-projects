@@ -196,7 +196,7 @@ student_data={
 > Add your first uploaded screenshot here.
 
 ```md
-![Output 1](pr-3/output1.png)
+![Output 1](output1.png)
 ```
 
 ---
