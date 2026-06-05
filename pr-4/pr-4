@@ -1,0 +1,126 @@
+import math        
+import statistics
+
+def fact(n):
+    if n <= 0:
+        return 1
+    else:
+        return n*fact(n-1)
+arr=[]
+print("-----------------------------------------------------")
+print("Welcome To The Data Analyzer And Transformer Program")
+print("-----------------------------------------------------")
+while True:  
+        print("-----------------------------------------------------")
+        print("Main Menu:")
+        print("Press 1 For Input Data")
+        print("Press 2 For Display Data Summary")
+        print("Press 3 For Calculate Factorial")
+        print("Press 4 For Filter Data By Threshold")
+        print("Press 5 For sort data")
+        print("Press 6 For display dataset statistics")
+        print("Press 0 For Exit Program")
+        print("-----------------------------------------------------")
+        choice=int(input("Please Enter Your Choice:"))
+        print("-----------------------------------------------------")
+        match choice:
+
+                case 1:
+                        print("-----------------------------------------------------")
+                        size=int(input("Enter Size For 1D Array:"))
+                        print("Enter Data For a 1D Array")
+                        for i in range(size):
+                                ele=int(input("Enter Element:"))
+                                arr.append(ele)
+                        print("-------------Data Has Been Stored Successfully!-------------")
+
+                case 2:
+                        if not arr:
+                                print("-------------------Data Not Found------------------")
+                        else:
+                                print("\n----------------- Data Summary -----------------")
+
+                                print(f"Total Elements          : {len(arr)}")
+                                print(f"Minimum Value           : {min(arr)}")
+                                print(f"Maximum Value           : {max(arr)}")
+                                print(f"Sum Of All Elements     : {sum(arr)}")
+                                print(f"Average Of All Elements : {statistics.mean(arr):.2f}") 
+                                
+                                print("------------------------------------------------")
+
+
+                case 3:
+                        print("-----------------------------------------------------")
+                        fact_num=int(input("Enter a Number To Calculate Its Factorial:"))
+                        print(f"Factorial Of {fact_num} Is : {fact(fact_num)}")
+                        print("-----------------------------------------------------")
+                case 4:
+                        if not arr:
+                             print("-------------------Data Not Found-------------------")
+                       
+                        else: 
+                              print("-----------------------------------------------------")
+                              threshold=int(input("Enter Value:"))
+                              print(arr)
+                              above=list(filter(lambda x : x > threshold,arr))
+                              below=list(filter(lambda x : x < threshold,arr))
+                              Equal=list(filter(lambda x : x == threshold,arr))
+          
+                              print(f"Values Above {threshold} : {above}")
+                              print(f"Values Below {threshold} : {below}")
+                              print(f"Values Equal {threshold} : {Equal}")
+                              print("-----------------------------------------------------") 
+                case 5:
+                      if not arr:
+                             print("----------------Data Not Found--------------------")
+                      else:
+                        print("-----------------------------------------------------")
+                        print("Press 1 For Ascending")
+                        print("Press 2 For Decscending")
+                        print("-----------------------------------------------------")
+                        sort_choice=int(input("Enter Your Choice:"))
+                        print("-----------------------------------------------------")
+
+                        match sort_choice:
+                                case 1:
+                                        print("-----------------------------------------------------")
+                                        print(arr)
+                                        my_sort=sorted(arr)
+                                        print("Sorted Array:",my_sort)
+                                        print("-----------------------------------------------------")
+                                case 2:
+                                        print("-----------------------------------------------------")
+                                        print(arr)
+                                        mysort=sorted(arr,reverse=True)
+                                        print("Sorted Array:",mysort)
+                                        print("-----------------------------------------------------")
+
+                case 6:
+                      if not arr:
+                             print("-------------------Data Not Found----------------------")
+                      else :
+                             print("-----------------------------------------------------")
+                             print(f"Median : {statistics.median(arr)}")
+                             print(f"Mode : {statistics.mode(arr)}")
+                             print("-----------------------------------------------------")
+
+                case 0 :
+                      print("---------------------------------------------------------------------------")
+                      print("Thank You For Using The Data Analyzer And Data Tranformer Program.Goodbye! ")
+                      print("---------------------------------------------------------------------------")
+                      break
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
