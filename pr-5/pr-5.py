@@ -15,8 +15,8 @@ class Employee(Person):
 
         def display(self):
              super().display()
-             print("id:",self.emp_id)
-             print("salary:",self.salary)
+             print("Id:",self.emp_id)
+             print("Salary:",self.salary)
              
 
 class Manager(Employee):
@@ -26,20 +26,20 @@ class Manager(Employee):
 
         def display(self):
              super().display()
-             print("department:",self.department)
+             print("Department:",self.department)
 
 person_details=[]
 employee_details=[]
 manager_details=[]
 
 while True:
-    print("\nChoose an operation:")
+    print("\nChoose an Operation:")
     print("1. Create a Person")
     print("2. Create an Employee")
     print("3. Create a Manager")
     print("4. Show Details")
     print("5. Exit")
-    choice = int(input("\nEnter your choice: "))
+    choice = int(input("\nEnter Your choice: "))
         
     match choice:
         case 1:
@@ -49,7 +49,7 @@ while True:
             person = Person(name, age)
 
                                         
-            print(f"\nPerson created with name: {name} and age: {age}.")
+            print(f"\nPerson Created With Name: {name} and Age: {age}.")
 
             person_details.append(person)
         
@@ -68,21 +68,21 @@ while True:
         case 3:
             name = input("Enter Name: ")
             age = input("Enter Age: ")  
-            man_id = input("enter id:")
-            salary = input("enter employee salary:") 
-            department = input("enter department")
+            man_id = input("Enter Id:")
+            salary = input("Enter Employee Salary:") 
+            department = input("Enter Department")
 
             Man = Manager(name, age ,man_id ,salary ,department)  
 
-            print(f"manager created with name :{name} , age :{age} , id :{man_id} ,salary :{salary} , department :{department}")    
+            print(f"Manager Created With Name :{name} , Age :{age} , Id :{man_id} ,Salary :{salary} , Department :{department}")    
             manager_details.append(Man)
 
         case 4:
-            print("choose details to show:")
-            print("1.person")
-            print("2.employee")
-            print("3.manager")
-            show=int(input("enter your choice:"))
+            print("Choose Details To Show:")
+            print("1.Person")
+            print("2.Employee")
+            print("3.Manager")
+            show=int(input("Enter Your Choice:"))
             match show:
                  case 1:
                      print("\n--- Person Details ---")
@@ -100,5 +100,5 @@ while True:
                         i.display()
      
         case 5:
-              print("---------exiting the system. all resourse have been freed.---------")
+              print("---------Exiting The System. All Resourse Have Been Freed.---------")
               break
