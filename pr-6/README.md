@@ -311,10 +311,10 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Ayush Isamaliya
+### KRINAL DHOLAKIYA
 
-[![GitHub](https://img.shields.io/badge/GitHub-isamaliya16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamaliya16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-isamaliya-686533312/)
+[![GitHub](https://img.shields.io/badge/GitHub-krinaldholakiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krinaldholakiya)
+
 
 > *"Every journal entry is a step toward understanding yourself — Python makes sure it's never forgotten."*
 
@@ -344,6 +344,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 16 June, 2026*
+*Made with ❤️ — Last updated: 16 June, 2026*
 
 </div>
