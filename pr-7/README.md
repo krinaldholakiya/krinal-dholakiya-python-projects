@@ -431,10 +431,9 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Your Name
+### KRINAL DHOLAKIYA
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-krinaldholakiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krinaldholakiya)
 
 > *"A good toolkit doesn't do one thing well — it does many things, reliably."*
 
@@ -464,6 +463,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 26 June, 2026*
+*Made with ❤️ — Last updated: 26 June, 2026*
 
 </div>
