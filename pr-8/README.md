@@ -424,10 +424,10 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Your Name Here
+### KRINAL DHOLAKIYA
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-krinaldholakiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 
 > *"Every array starts with a single element — just like every program starts with a single line."*
 
@@ -457,6 +457,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 07 July, 2026*
+*Made with ❤️  — Last updated: 07 July, 2026*
 
 </div>
