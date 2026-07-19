@@ -320,10 +320,9 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Your Name
+### KRINAL DHOLAKIYA
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourhandle/)
+[![GitHub](https://img.shields.io/badge/GitHub-krinaldholakiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krinaldholakiya)
 
 > *"Every dataset tells a story — happiness data tells the story of the world."*
 
@@ -353,6 +352,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 19 July, 2026*
+*Made with ❤️ — Last updated: 19 July, 2026*
 
 </div>
